@@ -17,6 +17,5 @@ to the width of the LCD, and renders a visual bar graph alongside the numeric
 reading.
 
 ## Libraries Used
-- Wire
 - LiquidCrystal_I2C
 
