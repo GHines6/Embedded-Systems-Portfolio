@@ -66,4 +66,21 @@ measurements through the serial interface.
 
 ---
 
-## Repository Structure
+Each project folder contains:
+- Source code (`.ino`)
+- A project-specific `README.md` explaining functionality and hardware usage
+
+---
+
+## Purpose
+This repository is intended to demonstrate hands-on experience with embedded
+systems fundamentals, clear project organization, and technical documentation.
+It reflects a learning-focused approach rather than optimized or production-
+grade designs.
+
+---
+
+## Author
+Giovanni Hines  
+Computer Engineering Student – Kennesaw State University
+
