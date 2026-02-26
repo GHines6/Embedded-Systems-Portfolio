@@ -82,5 +82,5 @@ grade designs.
 
 ## Author
 Giovanni Hines  
-Computer Engineering Student – Kennesaw State University
+Electrical Engineering Student – Kennesaw State University
 
